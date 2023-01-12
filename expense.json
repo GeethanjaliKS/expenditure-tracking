@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "63b2e1a4782623fab239ff0d"
+  },
+  "Title": "Watch",
+  "Category": "Fashion",
+  "Date": "2023-3-21",
+  "Amount": 2000
+},{
+  "_id": {
+    "$oid": "63b2e289782623fab239ff11"
+  },
+  "Title": "Electricity",
+  "Category": "Recharge",
+  "Date": "2023-9-24",
+  "Amount": 850
+},{
+  "_id": {
+    "$oid": "63b2e2be782623fab239ff12"
+  },
+  "Title": "Sandle",
+  "Category": "Fashion",
+  "Date": "2020-8-6",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "63b2e300782623fab239ff13"
+  },
+  "Title": "Nailpolish",
+  "Category": "Beauty",
+  "Date": "1999-7-22",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "63be975136fdea662aa9a5c9"
+  },
+  "Title": "earphone",
+  "Category": "electronics",
+  "Date": "2023-01-11",
+  "Amount": 400
+},{
+  "_id": {
+    "$oid": "63be984136fdea662aa9a5ca"
+  },
+  "Title": "primer",
+  "Category": "Beauty",
+  "Date": "2023-01-11",
+  "Amount": 300
+}]
