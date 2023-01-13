@@ -25,14 +25,20 @@ while True:
 
     ch=int(input("Enter a choice"))
     if(ch==1):
+        print("===================================================")
         cat=expenseStatistics.categoryExpense()
         print(cat)
+        print("===================================================")
     elif(ch==2):
+        print("===================================================")
         exp=expenseStatistics.highestExpense()
         print(exp)
+        print("===================================================")
     elif(ch==3):
+        print("===================================================")
         mexp=expenseStatistics.minExpense()
         print(mexp)
+        print("===================================================")
     elif(ch==4):
         exit    
     else:    
