@@ -1,3 +1,4 @@
+import datetime
 import pandas as pd
 import pymongo
 import matplotlib.pyplot as plt
@@ -10,14 +11,21 @@ mydb = myclient["Expense_Trackerdb"]
 mycol = mydb["expense"]
 def categoryExpense():
 
-  d=mycol.find({},{"Category":1,"Amount":1,"_id":0})
+  d=mycol.find({},{"Category":1,"Amount":1,"_id":0,"Date":1})
   key=[]
   data=[]
+  currentDateTime = datetime.datetime.now()
+  date = str(currentDateTime.date())
+  # print(date)
+  y=date[0:4]
+#  year = date.strftime("%Y")
+  dt=y+'-01-01'
   for i in d:
-    key.append(i['Category'])
-    data.append(i['Amount'])
-    df = pd.DataFrame({'Category': key,'Amount': data}, columns=['Category', 'Amount'])
-    res=df.groupby('Category').sum().reset_index()
+    if i['Date']>=dt:
+      key.append(i['Category'])
+      data.append(i['Amount'])
+  df = pd.DataFrame({'Category': key,'Amount': data}, columns=['Category', 'Amount'])
+  res=df.groupby('Category').sum().reset_index()
   # print(res.Category)
   col_cat=list(res["Category"])
   print(col_cat) 
@@ -26,12 +34,18 @@ def categoryExpense():
   # x=[key]
   # y=[data]  
   
-   
+  figure, axis = plt.subplots(1, 1)
   y_pos=np.arange(len(col_amt))
-  plt.bar(y_pos,col_amt)
-  plt.xticks(y_pos,col_cat)
-  plt.xlabel("category")
-  plt.ylabel("Expense")
+  axis[0, 0].bar(y_pos,col_amt)
+  axis[0, 0].set_xticks(y_pos,col_cat)
+  axis[0, 0].set_xlabel("category")
+  axis[0, 0].set_ylabel("Expense")
+
+  y_pos=np.arange(len(col_amt))
+  axis[0, 1].bar(y_pos,col_amt)
+  axis[0, 1].set_xticks(y_pos,col_cat)
+  axis[0, 1].set_xlabel("category")
+  axis[0, 1].set_ylabel("Expense")
   # plt.xticks(x,key,color='red',fontweight='bold',fontsize='17' )
   plt.show()
 categoryExpense()    
