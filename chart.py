@@ -41,7 +41,7 @@ def categoryExpense():
   
   figure, axis = plt.subplots(2)
   y_pos=np.arange(len(col_amt))
-  axis[0].set_title("Show Year Expense",fontweight='bold')
+  axis[0].set_title("Yearly Expense",fontweight='bold')
   axis[0].bar(y_pos,col_amt,color=(0.5, 0.2, 0.8, 0.8))
   axis[0].set_xticks(y_pos,col_cat,color='red',fontweight='bold',fontsize='13',horizontalalignment='right',rotation=5)
   axis[0].set_xlabel("Category",fontweight='bold')
@@ -71,12 +71,13 @@ def categoryExpense():
   col_amt=list(res["Amount"])
   print(col_amt) 
   y_pos=np.arange(len(col_amt))
-  axis[1].set_title("Show Month Expense",fontweight='bold')
+  axis[1].set_title("Monthly Expense",fontweight='bold')
   axis[1].bar(y_pos,col_amt,color=(0.5, 0.2, 0.8, 0.8))
   axis[1].set_xticks(y_pos,col_cat,color='red',fontweight='bold',fontsize='13',horizontalalignment='right',rotation=5)
   axis[1].set_xlabel("category",fontweight='bold')
   axis[1].set_ylabel("Expense",fontweight='bold')
   # plt.xticks(x,key,color='red',fontweight='bold',fontsize='17' )
+  plt.tight_layout()
   plt.show()
 categoryExpense()    
     
