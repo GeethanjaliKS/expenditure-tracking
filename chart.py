@@ -56,9 +56,10 @@ def categoryExpense():
   y=date[0:7]
   print(y)
   dt=y+'-01'
+  de=y+'-31'
   print(dt)
   for i in d:
-    if i['Date']>=dt:
+    if i['Date']>=dt and i['Date']<=de:
       key.append(i['Category'])
       data.append(i['Amount'])
   df = pd.DataFrame({'Category': key,'Amount': data}, columns=['Category', 'Amount'])
