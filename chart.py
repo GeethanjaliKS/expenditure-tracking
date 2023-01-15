@@ -43,6 +43,10 @@ def categoryExpense():
   y_pos=np.arange(len(col_amt))
   axis[0].set_title("Yearly Expense",fontweight='bold')
   axis[0].bar(y_pos,col_amt,color=(0.5, 0.2, 0.8, 0.8))
+
+  for i in range(len(y_pos)):
+        axis[0].text(i,col_amt[i],col_amt[i])
+
   axis[0].set_xticks(y_pos,col_cat,color='red',fontweight='bold',fontsize='13',horizontalalignment='right',rotation=5)
   axis[0].set_xlabel("Category",fontweight='bold')
   axis[0].set_ylabel("Expense",fontweight='bold')
@@ -73,6 +77,10 @@ def categoryExpense():
   y_pos=np.arange(len(col_amt))
   axis[1].set_title("Monthly Expense",fontweight='bold')
   axis[1].bar(y_pos,col_amt,color=(0.5, 0.2, 0.8, 0.8))
+
+  for i in range(len(y_pos)):
+        axis[0].text(i,col_amt[i],col_amt[i])
+
   axis[1].set_xticks(y_pos,col_cat,color='red',fontweight='bold',fontsize='13',horizontalalignment='right',rotation=5)
   axis[1].set_xlabel("category",fontweight='bold')
   axis[1].set_ylabel("Expense",fontweight='bold')
