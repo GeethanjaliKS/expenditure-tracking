@@ -34,18 +34,18 @@ def categoryExpense():
   # x=[key]
   # y=[data]  
   
-  figure, axis = plt.subplots(1, 1)
+  figure, axis = plt.subplots(2)
   y_pos=np.arange(len(col_amt))
-  axis[0, 0].bar(y_pos,col_amt)
-  axis[0, 0].set_xticks(y_pos,col_cat)
-  axis[0, 0].set_xlabel("category")
-  axis[0, 0].set_ylabel("Expense")
-
+  axis[0].bar(y_pos,col_amt)
+  axis[0].set_xticks(y_pos,col_cat)
+  axis[0].set_xlabel("category")
+  axis[0].set_ylabel("Expense")
+  
   y_pos=np.arange(len(col_amt))
-  axis[0, 1].bar(y_pos,col_amt)
-  axis[0, 1].set_xticks(y_pos,col_cat)
-  axis[0, 1].set_xlabel("category")
-  axis[0, 1].set_ylabel("Expense")
+  axis[1].bar(y_pos,col_amt)
+  axis[1].set_xticks(y_pos,col_cat)
+  axis[1].set_xlabel("category")
+  axis[1].set_ylabel("Expense")
   # plt.xticks(x,key,color='red',fontweight='bold',fontsize='17' )
   plt.show()
 categoryExpense()    
