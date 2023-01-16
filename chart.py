@@ -41,7 +41,7 @@ def categoryExpense():
   
   figure, axis = plt.subplots(2)
   y_pos=np.arange(len(col_amt))
-  axis[0].set_title("YEARLY EXPENSE",fontweight='bold',color="#800000",fontsize='15')
+  axis[0].set_title("YEARLY EXPENSE",fontweight='bold',color="#4DBEEE",fontsize='25')
   axis[0].bar(y_pos,col_amt,color='#000099')
 
   for i in range(len(y_pos)):
@@ -75,7 +75,7 @@ def categoryExpense():
   col_amt=list(res["Amount"])
   print(col_amt) 
   y_pos=np.arange(len(col_amt))
-  axis[1].set_title("MONTHLY EXPENSE",fontweight='bold',color='#800000',fontsize='15')
+  axis[1].set_title("MONTHLY EXPENSE",fontweight='bold',color='#4DBEEE',fontsize='25')
   axis[1].bar(y_pos,col_amt,color='#660033')
 
   for i in range(len(y_pos)):
