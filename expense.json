@@ -12,7 +12,7 @@
   },
   "Title": "Electricity",
   "Category": "Recharge",
-  "Date": "2023-9-24",
+  "Date": "2023-09-24",
   "Amount": 850
 },{
   "_id": {
@@ -28,7 +28,7 @@
   },
   "Title": "Nailpolish",
   "Category": "Beauty",
-  "Date": "1999-7-22",
+  "Date": "2023-04-22",
   "Amount": 100
 },{
   "_id": {
@@ -46,4 +46,68 @@
   "Category": "Beauty",
   "Date": "2023-01-11",
   "Amount": 300
+},{
+  "_id": {
+    "$oid": "63c272efa8385f5277be3d3c"
+  },
+  "Title": "Pen",
+  "Category": "stationary",
+  "Date": "2023-01-14",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "63c5f083d04ce87e46a466fe"
+  },
+  "Title": "Tire_replacement",
+  "Category": "Vehicle",
+  "Date": "2022-12-30",
+  "Amount": 5000
+},{
+  "_id": {
+    "$oid": "63c5f11fd04ce87e46a466ff"
+  },
+  "Title": "Health_Insurance",
+  "Category": "Insurance",
+  "Date": "2023-03-30",
+  "Amount": 10000
+},{
+  "_id": {
+    "$oid": "63c5f240d04ce87e46a46700"
+  },
+  "Title": "Vehicle_Insurance",
+  "Category": "Insurance",
+  "Date": "2022-11-28",
+  "Amount": 880
+},{
+  "_id": {
+    "$oid": "63c5f2c0d04ce87e46a46701"
+  },
+  "Title": "Room_Rent",
+  "Category": "Rent",
+  "Date": "2023-01-31",
+  "Amount": 2000
+},{
+  "_id": {
+    "$oid": "63c5f327d04ce87e46a46702"
+  },
+  "Title": "Fever",
+  "Category": "Medical",
+  "Date": "2022-12-23",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "63c5f3e2d04ce87e46a46703"
+  },
+  "Title": "Dinner",
+  "Category": "Hotel",
+  "Date": "2023-01-14",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "63c5f4f8d04ce87e46a46704"
+  },
+  "Title": "Books",
+  "Category": "Stationary",
+  "Date": "2023-07-25",
+  "Amount": 600
 }]
