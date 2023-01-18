@@ -7,8 +7,7 @@ import chart
 
 
 
-# res1=db.CurrentYear()
-res1=chart.categoryExpense()
+res1=db.CurrentYear()
 res2=month.currentMonth()
 res3=cdate.currentDate()
 a=[res1,res2,res3]
@@ -28,9 +27,9 @@ while True:
     ch=int(input("Enter a choice"))
     if(ch==1):
         print("===================================================")
-        cat=expenseStatistics.categoryExpense()
-        # cat=chart.categoryExpense()
-        print(cat)
+        # cat=expenseStatistics.categoryExpense()
+        cat=chart.categoryExpense()
+        # print(cat)
         print("===================================================")
     elif(ch==2):
         print("===================================================")
