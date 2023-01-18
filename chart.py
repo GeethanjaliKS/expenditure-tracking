@@ -33,9 +33,9 @@ def categoryExpense():
   res=df.groupby('Category').sum().reset_index()
   # print(res.Category)
   col_cat=list(res["Category"])
-  print(col_cat) 
+  # print(col_cat) 
   col_amt=list(res["Amount"])
-  print(col_amt) 
+  # print(col_amt) 
   # x=[key]
   # y=[data]  
   
@@ -59,10 +59,10 @@ def categoryExpense():
   currentDateTime = datetime.datetime.now()
   date = str(currentDateTime.date())
   y=date[0:7]
-  print(y)
+  # print(y)
   dt=y+'-01'
   de=y+'-31'
-  print(dt)
+  # print(dt)
   for i in d:
     if i['Date']>=dt and i['Date']<=de:
       key.append(i['Category'])
@@ -71,9 +71,9 @@ def categoryExpense():
   res=df.groupby('Category').sum().reset_index()
   # print(res.Category)
   col_cat=list(res["Category"])
-  print(col_cat) 
+  # print(col_cat) 
   col_amt=list(res["Amount"])
-  print(col_amt) 
+  # print(col_amt) 
   y_pos=np.arange(len(col_amt))
   axis[1].set_title("MONTHLY EXPENSE",fontweight='bold',color='#4DBEEE',fontsize='25')
   axis[1].bar(y_pos,col_amt,color='#660033')
@@ -86,6 +86,5 @@ def categoryExpense():
   axis[1].set_ylabel("Expense",fontweight='bold')
   # plt.xticks(x,key,color='red',fontweight='bold',fontsize='17' )
   plt.tight_layout()
-  plt.show()
-categoryExpense()    
+  plt.show()   
     

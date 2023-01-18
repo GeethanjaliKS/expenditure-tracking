@@ -27,9 +27,9 @@ while True:
     ch=int(input("Enter a choice"))
     if(ch==1):
         print("===================================================")
-        cat=expenseStatistics.categoryExpense()
-        # cat=chart.categoryExpense()
-        print(cat)
+        # cat=expenseStatistics.categoryExpense()
+        cat=chart.categoryExpense()
+        # print(cat)
         print("===================================================")
     elif(ch==2):
         print("===================================================")
