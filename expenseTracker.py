@@ -3,14 +3,16 @@ import month
 import cdate
 import pandas as pd
 import expenseStatistics
+import chart 
 
 
 
-res1=db.CurrentYear()
+# res1=db.CurrentYear()
+res1=chart.categoryExpense()
 res2=month.currentMonth()
 res3=cdate.currentDate()
 a=[res1,res2,res3]
-myvar = pd.Series(a, index = ["CurrentYear", "CurrentMonth", "CurrentDate"])
+myvar = pd.Series(a, index = ["categoryExpense", "CurrentMonth", "CurrentDate"])
 print("==========Year,Month and Day Expense==========")
 print(myvar)
 print("==============================================")
@@ -27,6 +29,7 @@ while True:
     if(ch==1):
         print("===================================================")
         cat=expenseStatistics.categoryExpense()
+        # cat=chart.categoryExpense()
         print(cat)
         print("===================================================")
     elif(ch==2):
