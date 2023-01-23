@@ -86,5 +86,5 @@ def categoryExpense():
   axis[1].set_ylabel("Expense",fontweight='bold')
   # plt.xticks(x,key,color='red',fontweight='bold',fontsize='17' )
   plt.tight_layout()
-  plt.show()   
+  plt.show()
     
