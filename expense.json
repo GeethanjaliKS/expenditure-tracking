@@ -107,7 +107,39 @@
     "$oid": "63c5f4f8d04ce87e46a46704"
   },
   "Title": "Books",
-  "Category": "Stationary",
+  "Category": "stationary",
   "Date": "2023-07-25",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "63ca64592b503e1bba23bdab"
+  },
+  "Title": "Chilli",
+  "Category": "Ingreditant",
+  "Date": "2023-01-20",
+  "Amount": 200
+},{
+  "_id": {
+    "$oid": "63ca65cb2b503e1bba23bdad"
+  },
+  "Title": "Papper",
+  "Category": "ingredients",
+  "Date": "2023-04-19",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "63ce9db082a20af1ba59a60c"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2023-02-1",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "63ce9e3b82a20af1ba59a60d"
+  },
+  "Title": "Diesel",
+  "Category": "Travel_Expense",
+  "Date": "2023-01-23",
   "Amount": 600
 }]
