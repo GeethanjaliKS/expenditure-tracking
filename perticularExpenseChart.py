@@ -19,7 +19,7 @@ def perticularExpense():
     # g = df.groupby(per)
     # print(g.sum())
     # print(g)
-    df['Gdate']=df['Date'].str[:6]
+    df['Gdate']=df['Date'].str[:7]
     res=df.groupby('Gdate')['Amount'].sum().reset_index()
     col_date=list(res["Gdate"])
     col_amt=list(res["Amount"])
