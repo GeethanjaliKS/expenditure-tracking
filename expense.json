@@ -4,14 +4,14 @@
   },
   "Title": "Watch",
   "Category": "Fashion",
-  "Date": "2023-3-21",
+  "Date": "2023-03-21",
   "Amount": 2000
 },{
   "_id": {
     "$oid": "63b2e289782623fab239ff11"
   },
-  "Title": "Electricity",
-  "Category": "Recharge",
+  "Title": "Recharge",
+  "Category": "Electronics",
   "Date": "2023-09-24",
   "Amount": 850
 },{
@@ -34,8 +34,8 @@
   "_id": {
     "$oid": "63be975136fdea662aa9a5c9"
   },
-  "Title": "earphone",
-  "Category": "electronics",
+  "Title": "Earphone",
+  "Category": "Electronics",
   "Date": "2023-01-11",
   "Amount": 400
 },{
@@ -51,7 +51,7 @@
     "$oid": "63c272efa8385f5277be3d3c"
   },
   "Title": "Pen",
-  "Category": "stationary",
+  "Category": "Stationary",
   "Date": "2023-01-14",
   "Amount": 10
 },{
@@ -107,7 +107,7 @@
     "$oid": "63c5f4f8d04ce87e46a46704"
   },
   "Title": "Books",
-  "Category": "stationary",
+  "Category": "Stationary",
   "Date": "2023-07-25",
   "Amount": 600
 },{
@@ -142,4 +142,100 @@
   "Category": "Travel_Expense",
   "Date": "2023-01-23",
   "Amount": 600
+},{
+  "_id": {
+    "$oid": "63e37f3d1b294cef129ba16e"
+  },
+  "Title": "Earrings",
+  "Category": "Fashion",
+  "Date": "2023-01-14",
+  "Amount": 305
+},{
+  "_id": {
+    "$oid": "63e37fd21b294cef129ba16f"
+  },
+  "Title": "Ring",
+  "Category": "Fashion",
+  "Date": "2023-05-10",
+  "Amount": 229
+},{
+  "_id": {
+    "$oid": "63e380301b294cef129ba170"
+  },
+  "Title": "crocs",
+  "Category": "Fshion",
+  "Date": "2023-06-30",
+  "Amount": 2097
+},{
+  "_id": {
+    "$oid": "63e381121b294cef129ba172"
+  },
+  "Title": "HP_Laptop",
+  "Category": "Electronics",
+  "Date": "2023-10-21",
+  "Amount": 54990
+},{
+  "_id": {
+    "$oid": "63e3821c1b294cef129ba174"
+  },
+  "Title": "Pendrive",
+  "Category": "Electronics",
+  "Date": "2023-06-23",
+  "Amount": 279
+},{
+  "_id": {
+    "$oid": "63e382831b294cef129ba175"
+  },
+  "Title": "Guitar",
+  "Category": "Electronics",
+  "Date": "2023-02-14",
+  "Amount": 2399
+},{
+  "_id": {
+    "$oid": "63e382da1b294cef129ba176"
+  },
+  "Title": "Dove_Shampo",
+  "Category": "Beauty",
+  "Date": "2023-02-8",
+  "Amount": 619
+},{
+  "_id": {
+    "$oid": "63e3835e1b294cef129ba177"
+  },
+  "Title": "Kajal",
+  "Category": "Beauty",
+  "Date": "2023-04-28",
+  "Amount": 166
+},{
+  "_id": {
+    "$oid": "63e383ae1b294cef129ba178"
+  },
+  "Title": "Trimmer",
+  "Category": "Beauty",
+  "Date": "2023-05-2",
+  "Amount": 749
+},{
+  "_id": {
+    "$oid": "63e3852b1b294cef129ba17a"
+  },
+  "Title": "Writing_Pad",
+  "Category": "Stationary",
+  "Date": "2023-01-12",
+  "Amount": 150
+},{
+  "_id": {
+    "$oid": "63e387531b294cef129ba17b"
+  },
+  "Title": "Maitainance and Repairs",
+  "Category": "Vehicle",
+  "Date": "2023-03-21",
+  "Amount": 20000
+},{
+  "_id": {
+    "$oid": "63e388d31b294cef129ba17d"
+  },
+  "Title": "Mysore_Trip",
+  "Category": "Travel_Expense",
+  "Date": "2023-04-17",
+  "Amount": 7000
 }]
