@@ -8,7 +8,7 @@ mydb = myclient["Expense_Trackerdb"]
 mycol = mydb["expense"]
 
 def perticularExpense():
-    d=mycol.find({"Category":"Fashion"},{"Amount":1,"_id":0,"Date":1})
+    d=mycol.find({"Category":"Fashion"},{"Amount":1,"_id":0,"Date":1}).sort("Date")
     amt=[]
     data=[]
     for i in d:
