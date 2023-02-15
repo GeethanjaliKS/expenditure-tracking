@@ -8,7 +8,7 @@ mydb = myclient["Expense_Trackerdb"]
 mycol = mydb["expense"]
 
 def perticularExpense():
-    d=mycol.find({"Category":"Fashion"},{"Amount":1,"_id":0,"Date":1})
+    d=mycol.find({"Category":"Fashion"},{"Amount":1,"_id":0,"Date":1}).sort("Date")
     amt=[]
     data=[]
     for i in d:
@@ -19,7 +19,7 @@ def perticularExpense():
     # g = df.groupby(per)
     # print(g.sum())
     # print(g)
-    df['Gdate']=df['Date'].str[:6]
+    df['Gdate']=df['Date'].str[:7]
     res=df.groupby('Gdate')['Amount'].sum().reset_index()
     col_date=list(res["Gdate"])
     col_amt=list(res["Amount"])
