@@ -1,13 +1,20 @@
 
-# import pandas as pd
-# import pymongo
-# myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-# mydb = myclient["Expense_Trackerdb"]
+import pandas as pd
+import pymongo
+myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+mydb = myclient["Expense_Trackerdb"]
 
-# mycol = mydb["expense"]
+mycol = mydb["expense"]
 
-# # while True:
-# print("Search particular Expense")
-# ch=expense.find({"Category":"Medical"})
 
-# print(ch)
+
+def Search():
+        print("===========Search Particular Expense===========")
+        ch=mycol.find({"Category":"Fashion"},{"Amount":1,"_id":0})
+        print(ch)
+        # total_amt=[]
+        for i in ch:
+                print(i)
+        #  total_amt.append(i['Amount'])
+Search()        
+    
