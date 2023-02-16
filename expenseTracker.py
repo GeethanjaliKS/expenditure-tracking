@@ -4,7 +4,7 @@ import cdate
 import pandas as pd
 import expenseStatistics
 import chart 
-
+import perticularExpenseChart
 
 
 res1=db.CurrentYear()
@@ -22,7 +22,8 @@ while True:
     print("1.Check category Expense")
     print("2.Check most Expense ")
     print("3.Check least Expense ")
-    print("4.Exit")
+    print("4.Check for perticular expense ")
+    print("5.Exit")
 
     ch=int(input("Enter a choice"))
     if(ch==1):
@@ -42,7 +43,10 @@ while True:
         print(mexp)
         print("===================================================")
     elif(ch==4):
-        exit    
+        exp=input("Enter the expense to search : ")
+        perticularExpenseChart.perticularExpense(exp) 
+    elif(ch==5):
+        exit   
     else:    
         print("Invalid choice")
                     

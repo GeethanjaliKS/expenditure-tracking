@@ -7,8 +7,8 @@ mydb = myclient["Expense_Trackerdb"]
 
 mycol = mydb["expense"]
 
-def perticularExpense():
-    d=mycol.find({"Category":"Fashion"},{"Amount":1,"_id":0,"Date":1}).sort("Date")
+def perticularExpense(exp):
+    d=mycol.find({"Category":exp},{"Amount":1,"_id":0,"Date":1}).sort("Date")
     amt=[]
     data=[]
     for i in d:
@@ -30,4 +30,3 @@ def perticularExpense():
     plt.ylabel("Amount")  # add Y-axis label
     # plt.title("Category")
     plt.show()
-perticularExpense()
