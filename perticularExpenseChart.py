@@ -25,7 +25,7 @@ def perticularExpense(exp):
     col_amt=list(res["Amount"])
     print(col_date)
     print(col_amt)
-    plt.plot(col_date, col_amt)
+    plt.plot(col_date, col_amt,"-o")
     plt.xlabel("Date")  # add X-axis label
     plt.ylabel("Amount")  # add Y-axis label
     # plt.title("Category")
