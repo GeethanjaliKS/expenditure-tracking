@@ -30,3 +30,9 @@ def perticularExpense(exp):
     plt.ylabel("Amount")  # add Y-axis label
     # plt.title("Category")
     plt.show()
+    
+def get_category():
+     c=mycol.distinct("Category")
+     print(c)
+
+    

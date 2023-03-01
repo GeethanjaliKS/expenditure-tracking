@@ -115,7 +115,7 @@
     "$oid": "63ca64592b503e1bba23bdab"
   },
   "Title": "Chilli",
-  "Category": "Ingreditant",
+  "Category": "Grocery",
   "Date": "2023-01-20",
   "Amount": 200
 },{
@@ -123,7 +123,7 @@
     "$oid": "63ca65cb2b503e1bba23bdad"
   },
   "Title": "Papper",
-  "Category": "ingredients",
+  "Category": "Grocery",
   "Date": "2023-04-19",
   "Amount": 300
 },{
@@ -238,4 +238,84 @@
   "Category": "Travel_Expense",
   "Date": "2023-04-17",
   "Amount": 7000
+},{
+  "_id": {
+    "$oid": "63eed3a4402922aec60b5d00"
+  },
+  "Title": "Recharge",
+  "Category": "Electronics",
+  "Date": "2023-08-1",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "63eed451402922aec60b5d02"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2023-09-30",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "63eed4be402922aec60b5d03"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2023-08-23",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "63eed50c402922aec60b5d04"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2023-06-10",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "63eed761402922aec60b5d09"
+  },
+  "Title": "Almonds",
+  "Category": "Grocery",
+  "Date": "2023-06-12",
+  "Amount": 759
+},{
+  "_id": {
+    "$oid": "63eed7b0402922aec60b5d0a"
+  },
+  "Title": "Khajoor",
+  "Category": "Grocery",
+  "Date": "2023-07-12",
+  "Amount": 329
+},{
+  "_id": {
+    "$oid": "63eed83d402922aec60b5d0b"
+  },
+  "Title": "Tata_Gold",
+  "Category": "Grocery",
+  "Date": "2023-12-1",
+  "Amount": 499
+},{
+  "_id": {
+    "$oid": "63eed898402922aec60b5d0c"
+  },
+  "Title": "oil",
+  "Category": "Grocery",
+  "Date": "2023-11-16",
+  "Amount": 1400
+},{
+  "_id": {
+    "$oid": "63eed97b402922aec60b5d0e"
+  },
+  "Title": "Moov",
+  "Category": "Madical",
+  "Date": "2023-05-28",
+  "Amount": 149
+},{
+  "_id": {
+    "$oid": "63eed9c2402922aec60b5d0f"
+  },
+  "Title": "Dettol",
+  "Category": "Madical",
+  "Date": "2023-09-10",
+  "Amount": 165
 }]

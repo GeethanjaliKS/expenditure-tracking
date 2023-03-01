@@ -47,7 +47,7 @@ def categoryExpense():
   for i in range(len(y_pos)):
            axis[0].text(i,col_amt[i],col_amt[i])
 
-  axis[0].set_xticks(y_pos,col_cat,color='red',fontsize='10',horizontalalignment='right',rotation=2)
+  axis[0].set_xticks(y_pos,col_cat,color='red',fontsize='10',horizontalalignment='right',rotation=5)
   axis[0].set_xlabel("Category",fontweight='bold')
   axis[0].set_ylabel("Expense",fontweight='bold')
   # plt.show()
@@ -81,7 +81,7 @@ def categoryExpense():
   for i in range(len(y_pos)):
         axis[1].text(i,col_amt[i],col_amt[i])
 
-  axis[1].set_xticks(y_pos,col_cat,color='red',fontsize='10',horizontalalignment='right',rotation=2)
+  axis[1].set_xticks(y_pos,col_cat,color='red',fontsize='10',horizontalalignment='right',rotation=10)
   axis[1].set_xlabel("category",fontweight='bold')
   axis[1].set_ylabel("Expense",fontweight='bold')
   # plt.xticks(x,key,color='red',fontweight='bold',fontsize='17' )

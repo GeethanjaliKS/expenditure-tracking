@@ -43,6 +43,7 @@ while True:
         print(mexp)
         print("===================================================")
     elif(ch==4):
+        perticularExpenseChart.get_category()
         exp=input("Enter the expense to search : ")
         perticularExpenseChart.perticularExpense(exp) 
     elif(ch==5):
