@@ -23,12 +23,14 @@ def perticularExpense(exp):
     res=df.groupby('Gdate')['Amount'].sum().reset_index()
     col_date=list(res["Gdate"])
     col_amt=list(res["Amount"])
-    print(col_date)
-    print(col_amt)
-    plt.plot(col_date, col_amt,"-o")
-    plt.xlabel("Date")  # add X-axis label
-    plt.ylabel("Amount")  # add Y-axis label
-    # plt.title("Category")
+    # print(col_date)
+    # print(col_amt)
+    plt.plot(col_date, col_amt,"-o",color='maroon')
+    plt.xlabel("Date",fontweight='bold',color='black',fontsize='15')  # add X-axis label
+    plt.ylabel("Amount",fontweight='bold',color='black',fontsize='15')  # add Y-axis label
+    plt.title(exp,color='blue',fontweight='bold',fontsize='25')
+    plt.xticks(rotation = 25)
+    plt.grid()
     plt.show()
     
 def get_category():

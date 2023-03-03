@@ -20,7 +20,7 @@
   },
   "Title": "Sandle",
   "Category": "Fashion",
-  "Date": "2020-8-6",
+  "Date": "2020-08-06",
   "Amount": 1000
 },{
   "_id": {
@@ -196,7 +196,7 @@
   },
   "Title": "Dove_Shampo",
   "Category": "Beauty",
-  "Date": "2023-02-8",
+  "Date": "2023-02-08",
   "Amount": 619
 },{
   "_id": {
@@ -212,7 +212,7 @@
   },
   "Title": "Trimmer",
   "Category": "Beauty",
-  "Date": "2023-05-2",
+  "Date": "2023-05-02",
   "Amount": 749
 },{
   "_id": {
@@ -244,7 +244,7 @@
   },
   "Title": "Recharge",
   "Category": "Electronics",
-  "Date": "2023-08-1",
+  "Date": "2023-08-01",
   "Amount": 300
 },{
   "_id": {
@@ -292,7 +292,7 @@
   },
   "Title": "Tata_Gold",
   "Category": "Grocery",
-  "Date": "2023-12-1",
+  "Date": "2023-12-01",
   "Amount": 499
 },{
   "_id": {
@@ -332,7 +332,7 @@
   },
   "Title": "Daily_Travel",
   "Category": "Travel_Expense",
-  "Date": "2023-03-4",
+  "Date": "2023-03-04",
   "Amount": 700
 },{
   "_id": {
@@ -364,7 +364,7 @@
   },
   "Title": "Daily_Travel",
   "Category": "Travel_Expense",
-  "Date": "2023-03-1",
+  "Date": "2023-03-01",
   "Amount": 700
 },{
   "_id": {
@@ -372,7 +372,7 @@
   },
   "Title": "Daily_Travel",
   "Category": "Travel_Expense",
-  "Date": "2023-04-8",
+  "Date": "2023-04-08",
   "Amount": 700
 },{
   "_id": {
@@ -404,7 +404,7 @@
   },
   "Title": "Daily_Travel",
   "Category": "Travel_Expense",
-  "Date": "2023-05-6",
+  "Date": "2023-05-06",
   "Amount": 700
 },{
   "_id": {
@@ -444,7 +444,7 @@
   },
   "Title": "Daily_Travel",
   "Category": "Travel_Expense",
-  "Date": "2023-08-2",
+  "Date": "2023-08-02",
   "Amount": 700
 },{
   "_id": {
@@ -476,7 +476,7 @@
   },
   "Title": "Banarasi_suit",
   "Category": "Fashion",
-  "Date": "2023-11-1",
+  "Date": "2023-11-01",
   "Amount": 1500
 },{
   "_id": {
@@ -532,7 +532,7 @@
   },
   "Title": "Perfume",
   "Category": "Beauty",
-  "Date": "2023-11-1",
+  "Date": "2023-11-01",
   "Amount": 1500
 },{
   "_id": {
@@ -804,7 +804,7 @@
   },
   "Title": "Banarasi_suit",
   "Category": "Fashion",
-  "Date": "2022-11-1",
+  "Date": "2022-11-01",
   "Amount": 1500
 },{
   "_id": {
@@ -876,7 +876,7 @@
   },
   "Title": "Perfume",
   "Category": "Beauty",
-  "Date": "2022-11-1",
+  "Date": "2022-11-01",
   "Amount": 1500
 },{
   "_id": {
@@ -1054,4 +1054,1148 @@
   "Category": "Rent",
   "Date": "2021-02-10",
   "Amount": 600
+},{
+  "_id": {
+    "$oid": "63ff19e13f8e0413b2382304"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2023-03-01",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "63ff1a043f8e0413b2382305"
+  },
+  "Title": "Diaper",
+  "Category": "Medical",
+  "Date": "2023-03-02",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "63ff1a153f8e0413b2382306"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2023-03-01",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6400b31d92b3efdd7599f961"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-09-26",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b32192b3efdd7599f962"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-09-26",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b33292b3efdd7599f963"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-09-26",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b33b92b3efdd7599f964"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-10-30",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6400b44a92b3efdd7599f965"
+  },
+  "Title": "Vim",
+  "Category": "Grocery",
+  "Date": "2022-05-04",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f966"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-19",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f967"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-01-08",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f968"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-02-09",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f969"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-21",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f96a"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-24",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f96b"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-07-13",
+  "Amount": 200
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f96c"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-15",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f96d"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-31",
+  "Amount": 900
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f96e"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-11-30",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f96f"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-11-30",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f970"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-12-25",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f971"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-10-15",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f972"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-06-10",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f973"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-11",
+  "Amount": 900
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f974"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-07-20",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f975"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-07-20",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f976"
+  },
+  "Title": "Surf",
+  "Category": "Grocery",
+  "Date": "2022-10-26",
+  "Amount": 435
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f977"
+  },
+  "Title": "Tea_Powder",
+  "Category": "Grocery",
+  "Date": "2022-09-29",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f978"
+  },
+  "Title": "Vim",
+  "Category": "Grocery",
+  "Date": "2022-09-29",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f979"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-10-29",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f97a"
+  },
+  "Title": "Maggi",
+  "Category": "Grocery",
+  "Date": "2022-06-18",
+  "Amount": 157
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f97b"
+  },
+  "Title": "Dry_Fruits",
+  "Category": "Grocery",
+  "Date": "2022-06-18",
+  "Amount": 286
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f97c"
+  },
+  "Title": "Maggi",
+  "Category": "Grocery",
+  "Date": "2022-08-18",
+  "Amount": 157
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f97d"
+  },
+  "Title": "Dry_Fruits",
+  "Category": "Grocery",
+  "Date": "2022-04-10",
+  "Amount": 286
+},{
+  "_id": {
+    "$oid": "6400b44f92b3efdd7599f97e"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-09-30",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6400b45092b3efdd7599f97f"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-10-30",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6400b45092b3efdd7599f980"
+  },
+  "Title": "Vim",
+  "Category": "Grocery",
+  "Date": "2022-05-04",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6400b45192b3efdd7599f981"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-09-26",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b61092b3efdd7599f982"
+  },
+  "Title": "Watch",
+  "Category": "Fashion",
+  "Date": "2023-03-21",
+  "Amount": 2000
+},{
+  "_id": {
+    "$oid": "6400b61092b3efdd7599f983"
+  },
+  "Title": "Recharge",
+  "Category": "Electronics",
+  "Date": "2023-04-24",
+  "Amount": 850
+},{
+  "_id": {
+    "$oid": "6400b61092b3efdd7599f984"
+  },
+  "Title": "Sandle",
+  "Category": "Fashion",
+  "Date": "2020-02-06",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "6400b61092b3efdd7599f985"
+  },
+  "Title": "Nailpolish",
+  "Category": "Beauty",
+  "Date": "2023-04-22",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400b61092b3efdd7599f986"
+  },
+  "Title": "Earphone",
+  "Category": "Electronics",
+  "Date": "2023-01-11",
+  "Amount": 400
+},{
+  "_id": {
+    "$oid": "6400b61092b3efdd7599f987"
+  },
+  "Title": "primer",
+  "Category": "Beauty",
+  "Date": "2023-01-11",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6400b61092b3efdd7599f988"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2023-01-14",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f989"
+  },
+  "Title": "Health_Insurance",
+  "Category": "Insurance",
+  "Date": "2023-03-30",
+  "Amount": 10000
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f98a"
+  },
+  "Title": "Vehicle_Insurance",
+  "Category": "Insurance",
+  "Date": "2022-11-28",
+  "Amount": 880
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f98b"
+  },
+  "Title": "Room_Rent",
+  "Category": "Rent",
+  "Date": "2023-01-31",
+  "Amount": 2000
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f98c"
+  },
+  "Title": "Fever_Tablet",
+  "Category": "Medical",
+  "Date": "2022-12-23",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f98d"
+  },
+  "Title": "Dinner",
+  "Category": "Hotel",
+  "Date": "2023-01-14",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f98e"
+  },
+  "Title": "Books",
+  "Category": "Stationary",
+  "Date": "2023-01-25",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f98f"
+  },
+  "Title": "Chilli",
+  "Category": "Grocery",
+  "Date": "2023-01-20",
+  "Amount": 200
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f990"
+  },
+  "Title": "Papper",
+  "Category": "Grocery",
+  "Date": "2023-04-19",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f991"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2023-02-1",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f992"
+  },
+  "Title": "Diesel",
+  "Category": "Travel_Expense",
+  "Date": "2023-01-23",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6400b63d92b3efdd7599f993"
+  },
+  "Title": "Earrings",
+  "Category": "Fashion",
+  "Date": "2023-01-14",
+  "Amount": 305
+},{
+  "_id": {
+    "$oid": "6400b64092b3efdd7599f994"
+  },
+  "Title": "Ring",
+  "Category": "Fashion",
+  "Date": "2023-02-10",
+  "Amount": 229
+},{
+  "_id": {
+    "$oid": "6400b87e92b3efdd7599f995"
+  },
+  "Title": "crocs",
+  "Category": "Fshion",
+  "Date": "2022-04-30",
+  "Amount": 2097
+},{
+  "_id": {
+    "$oid": "6400b87e92b3efdd7599f996"
+  },
+  "Title": "HP_Laptop",
+  "Category": "Electronics",
+  "Date": "2022-10-21",
+  "Amount": 54990
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f997"
+  },
+  "Title": "Pendrive",
+  "Category": "Electronics",
+  "Date": "2022-06-23",
+  "Amount": 279
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f998"
+  },
+  "Title": "Guitar",
+  "Category": "Electronics",
+  "Date": "2022-02-14",
+  "Amount": 2399
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f999"
+  },
+  "Title": "Dove_Shampo",
+  "Category": "Beauty",
+  "Date": "2022-02-08",
+  "Amount": 619
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f99a"
+  },
+  "Title": "Kajal",
+  "Category": "Beauty",
+  "Date": "2022-04-28",
+  "Amount": 166
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f99b"
+  },
+  "Title": "Trimmer",
+  "Category": "Beauty",
+  "Date": "2022-05-02",
+  "Amount": 749
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f99c"
+  },
+  "Title": "Writing_Pad",
+  "Category": "Stationary",
+  "Date": "2022-01-12",
+  "Amount": 150
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f99d"
+  },
+  "Title": "Maitainance and Repairs",
+  "Category": "Vehicle",
+  "Date": "2022-03-21",
+  "Amount": 20000
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f99e"
+  },
+  "Title": "Mysore_Trip",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-17",
+  "Amount": 7000
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f99f"
+  },
+  "Title": "Recharge",
+  "Category": "Electronics",
+  "Date": "2022-08-01",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a0"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2022-09-30",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a1"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-23",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a2"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2022-06-10",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a3"
+  },
+  "Title": "Almonds",
+  "Category": "Grocery",
+  "Date": "2022-06-12",
+  "Amount": 759
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a4"
+  },
+  "Title": "Khajoor",
+  "Category": "Grocery",
+  "Date": "2022-07-12",
+  "Amount": 329
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a5"
+  },
+  "Title": "Tata_Gold",
+  "Category": "Grocery",
+  "Date": "2022-12-01",
+  "Amount": 499
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a6"
+  },
+  "Title": "oil",
+  "Category": "Grocery",
+  "Date": "2022-11-16",
+  "Amount": 1400
+},{
+  "_id": {
+    "$oid": "6400b87f92b3efdd7599f9a7"
+  },
+  "Title": "Moov",
+  "Category": "Madical",
+  "Date": "2022-05-28",
+  "Amount": 149
+},{
+  "_id": {
+    "$oid": "6400b88192b3efdd7599f9a8"
+  },
+  "Title": "Dettol",
+  "Category": "Madical",
+  "Date": "2022-09-10",
+  "Amount": 165
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9a9"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-02-27",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9aa"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-04",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9ab"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-11",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9ac"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-18",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9ad"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-25",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9ae"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-01",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9af"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-08",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9b0"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-15",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9b1"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-22",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9b2"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-29",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9b3"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-06",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9b4"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-13",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9ea92b3efdd7599f9b5"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-20",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9eb92b3efdd7599f9b6"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-27",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9eb92b3efdd7599f9b7"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-07-27",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9eb92b3efdd7599f9b8"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-02",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6400b9eb92b3efdd7599f9b9"
+  },
+  "Title": "Eyeliner",
+  "Category": "Beauty",
+  "Date": "2022-05-15",
+  "Amount": 125
+},{
+  "_id": {
+    "$oid": "6400b9eb92b3efdd7599f9ba"
+  },
+  "Title": "Bubble_mask",
+  "Category": "Beauty",
+  "Date": "2022-09-30",
+  "Amount": 74
+},{
+  "_id": {
+    "$oid": "6400b9eb92b3efdd7599f9bb"
+  },
+  "Title": "Lip_Paint",
+  "Category": "Beauty",
+  "Date": "2022-08-14",
+  "Amount": 4000
+},{
+  "_id": {
+    "$oid": "6400b9ec92b3efdd7599f9bc"
+  },
+  "Title": "Banarasi_suit",
+  "Category": "Fashion",
+  "Date": "2022-11-01",
+  "Amount": 1500
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9bd"
+  },
+  "Title": "Cap",
+  "Category": "Fashion",
+  "Date": "2022-02-27",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9be"
+  },
+  "Title": "Bracelet",
+  "Category": "Fashion",
+  "Date": "2022-09-29",
+  "Amount": 224
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9bf"
+  },
+  "Title": "Shoes",
+  "Category": "Fashion",
+  "Date": "2022-09-17",
+  "Amount": 449
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c0"
+  },
+  "Title": "Sun_cream",
+  "Category": "Medical",
+  "Date": "2022-10-26",
+  "Amount": 420
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c1"
+  },
+  "Title": "Tablet",
+  "Category": "Medical",
+  "Date": "2022-08-11",
+  "Amount": 354
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c2"
+  },
+  "Title": "Head_phone",
+  "Category": "Electronics",
+  "Date": "2022-07-22",
+  "Amount": 599
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c3"
+  },
+  "Title": "Perfume",
+  "Category": "Beauty",
+  "Date": "2022-11-01",
+  "Amount": 1500
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c4"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-05-19",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c5"
+  },
+  "Title": "NoteBook",
+  "Category": "Stationary",
+  "Date": "2022-02-20",
+  "Amount": 69
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c6"
+  },
+  "Title": "Double_Tape",
+  "Category": "Stationary",
+  "Date": "2022-06-10",
+  "Amount": 144
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c7"
+  },
+  "Title": "Pouch",
+  "Category": "Stationary",
+  "Date": "2022-09-31",
+  "Amount": 450
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c8"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-03-21",
+  "Amount": 70
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9c9"
+  },
+  "Title": "NotePad",
+  "Category": "Stationary",
+  "Date": "2022-06-29",
+  "Amount": 299
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9ca"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-05-19",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9cb"
+  },
+  "Title": "Rubber",
+  "Category": "Stationary",
+  "Date": "2022-05-19",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9cc"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-01-19",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9cd"
+  },
+  "Title": "Gum",
+  "Category": "Stationary",
+  "Date": "2022-04-10",
+  "Amount": 25
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9ce"
+  },
+  "Title": "Book",
+  "Category": "Stationary",
+  "Date": "2022-05-19",
+  "Amount": 40
+},{
+  "_id": {
+    "$oid": "6400bb7092b3efdd7599f9cf"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-04-20",
+  "Amount": 20
+},{
+  "_id": {
+    "$oid": "6400bb7292b3efdd7599f9d0"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-02-20",
+  "Amount": 50
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ace"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-02-01",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539acf"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-07",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad0"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-09-09",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad1"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-01-23",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad2"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-27",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad3"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-13",
+  "Amount": 200
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad4"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-07-10",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad5"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-10-31",
+  "Amount": 900
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad6"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-12-27",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad7"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-02-30",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad8"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-25",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ad9"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-05",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ada"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-07-11",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539adb"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-06-10",
+  "Amount": 900
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539adc"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-07-09",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539add"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-03-21",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ade"
+  },
+  "Title": "Surf",
+  "Category": "Grocery",
+  "Date": "2022-03-20",
+  "Amount": 435
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539adf"
+  },
+  "Title": "Tea_Powder",
+  "Category": "Grocery",
+  "Date": "2022-01-31",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ae0"
+  },
+  "Title": "Vim",
+  "Category": "Grocery",
+  "Date": "2022-05-22",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ae1"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-08-20",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ae2"
+  },
+  "Title": "Maggi",
+  "Category": "Grocery",
+  "Date": "2022-01-19",
+  "Amount": 157
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ae3"
+  },
+  "Title": "Dry_Fruits",
+  "Category": "Grocery",
+  "Date": "2022-05-19",
+  "Amount": 286
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ae4"
+  },
+  "Title": "Maggi",
+  "Category": "Grocery",
+  "Date": "2022-07-08",
+  "Amount": 157
+},{
+  "_id": {
+    "$oid": "6401bdbc7f02905618539ae5"
+  },
+  "Title": "Dry_Fruits",
+  "Category": "Grocery",
+  "Date": "2022-09-07",
+  "Amount": 286
+},{
+  "_id": {
+    "$oid": "6401bdbd7f02905618539ae6"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-08-31",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6401bdbd7f02905618539ae7"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-11-30",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6401bdbd7f02905618539ae8"
+  },
+  "Title": "Vim",
+  "Category": "Grocery",
+  "Date": "2022-01-01",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6401bdc27f02905618539ae9"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-04-26",
+  "Amount": 100
 }]
