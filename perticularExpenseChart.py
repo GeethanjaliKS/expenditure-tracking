@@ -1,3 +1,4 @@
+
 import pandas as pd
 import pymongo
 import matplotlib.pyplot as plt
@@ -15,6 +16,8 @@ def perticularExpense(exp):
       amt.append(i['Amount'])
       data.append(i['Date'])
     df = pd.DataFrame({'Date': data,'Amount': amt}, columns=['Date', 'Amount'])
+    # a= df.isnull().sum()
+    # print(a)
     # per = df.Date.dt.to_period("M")
     # g = df.groupby(per)
     # print(g.sum())
@@ -35,6 +38,9 @@ def perticularExpense(exp):
     
 def get_category():
      c=mycol.distinct("Category")
-     print(c)
+    #  print(c)
+
+
+    
 
     

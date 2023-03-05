@@ -2198,4 +2198,1451 @@
   "Category": "Grocery",
   "Date": "2022-04-26",
   "Amount": 100
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758af"
+  },
+  "Title": "Watch",
+  "Category": "Fashion",
+  "Date": "2022-03-21",
+  "Amount": 2000
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b0"
+  },
+  "Title": "Recharge",
+  "Category": "Electronics",
+  "Date": "2022-04-24",
+  "Amount": 850
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b1"
+  },
+  "Title": "Sandle",
+  "Category": "Fashion",
+  "Date": "2022-02-06",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b2"
+  },
+  "Title": "Nailpolish",
+  "Category": "Beauty",
+  "Date": "2022-04-22",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b3"
+  },
+  "Title": "Earphone",
+  "Category": "Electronics",
+  "Date": "2022-01-11",
+  "Amount": 400
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b4"
+  },
+  "Title": "primer",
+  "Category": "Beauty",
+  "Date": "2022-01-11",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b5"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-01-14",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b6"
+  },
+  "Title": "Tire_replacement",
+  "Category": "Vehicle",
+  "Date": "2022-12-30",
+  "Amount": 5000
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b7"
+  },
+  "Title": "Health_Insurance",
+  "Category": "Insurance",
+  "Date": "2022-03-30",
+  "Amount": 10000
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b8"
+  },
+  "Title": "Vehicle_Insurance",
+  "Category": "Insurance",
+  "Date": "2022-10-28",
+  "Amount": 880
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758b9"
+  },
+  "Title": "Room_Rent",
+  "Category": "Rent",
+  "Date": "2022-01-31",
+  "Amount": 2000
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758ba"
+  },
+  "Title": "Fever_Tablet",
+  "Category": "Medical",
+  "Date": "2022-11-23",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758bb"
+  },
+  "Title": "Dinner",
+  "Category": "Hotel",
+  "Date": "2022-01-14",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758bc"
+  },
+  "Title": "Books",
+  "Category": "Stationary",
+  "Date": "2022-01-25",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758bd"
+  },
+  "Title": "Chilli",
+  "Category": "Grocery",
+  "Date": "2022-01-20",
+  "Amount": 200
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758be"
+  },
+  "Title": "Papper",
+  "Category": "Grocery",
+  "Date": "2022-04-19",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758bf"
+  },
+  "Title": "Petrol",
+  "Category": "Travel_Expense",
+  "Date": "2022-02-1",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758c0"
+  },
+  "Title": "Diesel",
+  "Category": "Travel_Expense",
+  "Date": "2022-01-23",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "64021aac85054b6641a758c1"
+  },
+  "Title": "Earrings",
+  "Category": "Fashion",
+  "Date": "2022-01-14",
+  "Amount": 305
+},{
+  "_id": {
+    "$oid": "64021aad85054b6641a758c2"
+  },
+  "Title": "Ring",
+  "Category": "Fashion",
+  "Date": "2022-02-10",
+  "Amount": 229
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758c3"
+  },
+  "Title": "crocs",
+  "Category": "Fshion",
+  "Date": "2022-09-29",
+  "Amount": 2097
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758c4"
+  },
+  "Title": "HP_Laptop",
+  "Category": "Electronics",
+  "Date": "2022-10-22",
+  "Amount": 54990
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758c5"
+  },
+  "Title": "Pendrive",
+  "Category": "Electronics",
+  "Date": "2022-07-21",
+  "Amount": 279
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758c6"
+  },
+  "Title": "Guitar",
+  "Category": "Electronics",
+  "Date": "2022-02-19",
+  "Amount": 2399
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758c7"
+  },
+  "Title": "Dove_Shampo",
+  "Category": "Beauty",
+  "Date": "2022-08-08",
+  "Amount": 619
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758c8"
+  },
+  "Title": "Kajal",
+  "Category": "Beauty",
+  "Date": "2022-07-21",
+  "Amount": 166
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758c9"
+  },
+  "Title": "Trimmer",
+  "Category": "Beauty",
+  "Date": "2022-01-02",
+  "Amount": 749
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758ca"
+  },
+  "Title": "Writing_Pad",
+  "Category": "Stationary",
+  "Date": "2022-06-12",
+  "Amount": 150
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758cb"
+  },
+  "Title": "Maitainance and Repairs",
+  "Category": "Vehicle",
+  "Date": "2022-09-21",
+  "Amount": 20000
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758cc"
+  },
+  "Title": "Mysore_Trip",
+  "Category": "Travel_Expense",
+  "Date": "2022-09-17",
+  "Amount": 7000
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758cd"
+  },
+  "Title": "Recharge",
+  "Category": "Electronics",
+  "Date": "2022-07-01",
+  "Amount": 300
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758ce"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-30",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758cf"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-23",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758d0"
+  },
+  "Title": "Bus_charge",
+  "Category": "Travel_Expense",
+  "Date": "2022-09-10",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758d1"
+  },
+  "Title": "Almonds",
+  "Category": "Grocery",
+  "Date": "2022-04-12",
+  "Amount": 759
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758d2"
+  },
+  "Title": "Khajoor",
+  "Category": "Grocery",
+  "Date": "2022-09-12",
+  "Amount": 329
+},{
+  "_id": {
+    "$oid": "64021bf385054b6641a758d3"
+  },
+  "Title": "Tata_Gold",
+  "Category": "Grocery",
+  "Date": "2022-11-01",
+  "Amount": 499
+},{
+  "_id": {
+    "$oid": "64021bf485054b6641a758d4"
+  },
+  "Title": "oil",
+  "Category": "Grocery",
+  "Date": "2022-11-16",
+  "Amount": 1400
+},{
+  "_id": {
+    "$oid": "64021bf485054b6641a758d5"
+  },
+  "Title": "Moov",
+  "Category": "Madical",
+  "Date": "2022-09-28",
+  "Amount": 149
+},{
+  "_id": {
+    "$oid": "64021bf485054b6641a758d6"
+  },
+  "Title": "Dettol",
+  "Category": "Madical",
+  "Date": "2022-05-10",
+  "Amount": 165
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758d7"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-09-27",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758d8"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-03-04",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758d9"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-02-11",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758da"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-06-18",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758db"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-09-25",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758dc"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-10-01",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758dd"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-11-08",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758de"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-12-15",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758df"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-22",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e0"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-04-29",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e1"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-06",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e2"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-13",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e3"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-20",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e4"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-05-27",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e5"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-07-27",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e6"
+  },
+  "Title": "Daily_Travel",
+  "Category": "Travel_Expense",
+  "Date": "2022-08-02",
+  "Amount": 700
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e7"
+  },
+  "Title": "Eyeliner",
+  "Category": "Beauty",
+  "Date": "2022-05-15",
+  "Amount": 125
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e8"
+  },
+  "Title": "Bubble_mask",
+  "Category": "Beauty",
+  "Date": "2022-09-30",
+  "Amount": 74
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758e9"
+  },
+  "Title": "Lip_Paint",
+  "Category": "Beauty",
+  "Date": "2022-08-14",
+  "Amount": 4000
+},{
+  "_id": {
+    "$oid": "64021cb285054b6641a758ea"
+  },
+  "Title": "Banarasi_suit",
+  "Category": "Fashion",
+  "Date": "2022-11-01",
+  "Amount": 1500
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758eb"
+  },
+  "Title": "Cap",
+  "Category": "Fashion",
+  "Date": "2022-09-27",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758ec"
+  },
+  "Title": "Bracelet",
+  "Category": "Fashion",
+  "Date": "2022-10-29",
+  "Amount": 224
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758ed"
+  },
+  "Title": "Shoes",
+  "Category": "Fashion",
+  "Date": "2022-08-17",
+  "Amount": 449
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758ee"
+  },
+  "Title": "Sun_cream",
+  "Category": "Medical",
+  "Date": "2022-11-26",
+  "Amount": 420
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758ef"
+  },
+  "Title": "Tablet",
+  "Category": "Medical",
+  "Date": "2022-07-11",
+  "Amount": 354
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f0"
+  },
+  "Title": "Head_phone",
+  "Category": "Electronics",
+  "Date": "2022-07-22",
+  "Amount": 599
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f1"
+  },
+  "Title": "Perfume",
+  "Category": "Beauty",
+  "Date": "2022-10-01",
+  "Amount": 1500
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f2"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-03-19",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f3"
+  },
+  "Title": "NoteBook",
+  "Category": "Stationary",
+  "Date": "2022-08-20",
+  "Amount": 69
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f4"
+  },
+  "Title": "Double_Tape",
+  "Category": "Stationary",
+  "Date": "2022-07-10",
+  "Amount": 144
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f5"
+  },
+  "Title": "Pouch",
+  "Category": "Stationary",
+  "Date": "2022-08-31",
+  "Amount": 450
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f6"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-04-21",
+  "Amount": 70
+},{
+  "_id": {
+    "$oid": "64021d4a85054b6641a758f7"
+  },
+  "Title": "NotePad",
+  "Category": "Stationary",
+  "Date": "2022-04-29",
+  "Amount": 299
+},{
+  "_id": {
+    "$oid": "64021d4b85054b6641a758f8"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-02-19",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "64021d4b85054b6641a758f9"
+  },
+  "Title": "Rubber",
+  "Category": "Stationary",
+  "Date": "2022-07-19",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "64021d4b85054b6641a758fa"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-09-19",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "64021d4b85054b6641a758fb"
+  },
+  "Title": "Gum",
+  "Category": "Stationary",
+  "Date": "2022-05-10",
+  "Amount": 25
+},{
+  "_id": {
+    "$oid": "64021d4b85054b6641a758fc"
+  },
+  "Title": "Book",
+  "Category": "Stationary",
+  "Date": "2022-05-19",
+  "Amount": 40
+},{
+  "_id": {
+    "$oid": "64021d4b85054b6641a758fd"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-08-20",
+  "Amount": 20
+},{
+  "_id": {
+    "$oid": "64021d4b85054b6641a758fe"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-01-20",
+  "Amount": 50
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a758ff"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-03-28",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75900"
+  },
+  "Title": "Wires",
+  "Category": "Electronics",
+  "Date": "2022-01-20",
+  "Amount": 250
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75901"
+  },
+  "Title": "Nacotin",
+  "Category": "Medical",
+  "Date": "2022-04-20",
+  "Amount": 20
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75902"
+  },
+  "Title": "Earing",
+  "Category": "Fashion",
+  "Date": "2022-07-02",
+  "Amount": 660
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75903"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-10-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75904"
+  },
+  "Title": "Vicks",
+  "Category": "Medical",
+  "Date": "2022-01-02",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75905"
+  },
+  "Title": "Diaper",
+  "Category": "Medical",
+  "Date": "2022-01-02",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75906"
+  },
+  "Title": "Napkin",
+  "Category": "Medical",
+  "Date": "2022-02-28",
+  "Amount": 90
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75907"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-02-10",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75908"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-02-10",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "640222dd85054b6641a75909"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-02-10",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a7590a"
+  },
+  "Title": "Napkin",
+  "Category": "Medical",
+  "Date": "2022-02-28",
+  "Amount": 90
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a7590b"
+  },
+  "Title": "Diaper",
+  "Category": "Medical",
+  "Date": "2022-01-02",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a7590c"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-10-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a7590d"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-10-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a7590e"
+  },
+  "Title": "Earing",
+  "Category": "Fashion",
+  "Date": "2022-07-02",
+  "Amount": 660
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a7590f"
+  },
+  "Title": "Eyeliner",
+  "Category": "Beauty",
+  "Date": "2022-05-15",
+  "Amount": 125
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a75910"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-10-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a75911"
+  },
+  "Title": "Bubble_mask",
+  "Category": "Beauty",
+  "Date": "2022-09-30",
+  "Amount": 74
+},{
+  "_id": {
+    "$oid": "640222de85054b6641a75912"
+  },
+  "Title": "Lip_Paint",
+  "Category": "Beauty",
+  "Date": "2022-08-14",
+  "Amount": 4000
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258457"
+  },
+  "Title": "Cap",
+  "Category": "Fashion",
+  "Date": "2022-02-27",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258458"
+  },
+  "Title": "Bracelet",
+  "Category": "Fashion",
+  "Date": "2022-12-29",
+  "Amount": 224
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258459"
+  },
+  "Title": "Shoes",
+  "Category": "Fashion",
+  "Date": "2022-11-17",
+  "Amount": 449
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a25845a"
+  },
+  "Title": "Sun_cream",
+  "Category": "Medical",
+  "Date": "2022-11-26",
+  "Amount": 420
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a25845b"
+  },
+  "Title": "Tablet",
+  "Category": "Medical",
+  "Date": "2022-09-11",
+  "Amount": 354
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a25845c"
+  },
+  "Title": "Head_phone",
+  "Category": "Electronics",
+  "Date": "2022-07-22",
+  "Amount": 599
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a25845d"
+  },
+  "Title": "Perfume",
+  "Category": "Beauty",
+  "Date": "2022-11-01",
+  "Amount": 1500
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a25845e"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-06-19",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a25845f"
+  },
+  "Title": "NoteBook",
+  "Category": "Stationary",
+  "Date": "2022-03-20",
+  "Amount": 69
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258460"
+  },
+  "Title": "Double_Tape",
+  "Category": "Stationary",
+  "Date": "2022-09-10",
+  "Amount": 144
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258461"
+  },
+  "Title": "Pouch",
+  "Category": "Stationary",
+  "Date": "2022-03-31",
+  "Amount": 450
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258462"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-09-21",
+  "Amount": 70
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258463"
+  },
+  "Title": "NotePad",
+  "Category": "Stationary",
+  "Date": "2022-05-29",
+  "Amount": 299
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258464"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-02-19",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258465"
+  },
+  "Title": "Rubber",
+  "Category": "Stationary",
+  "Date": "2022-09-19",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258466"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-04-19",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258467"
+  },
+  "Title": "Gum",
+  "Category": "Stationary",
+  "Date": "2022-09-10",
+  "Amount": 25
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258468"
+  },
+  "Title": "Book",
+  "Category": "Stationary",
+  "Date": "2022-06-19",
+  "Amount": 40
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a258469"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-02-20",
+  "Amount": 20
+},{
+  "_id": {
+    "$oid": "6402bda2a238450b5a25846a"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-01-20",
+  "Amount": 50
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25846b"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-06-28",
+  "Amount": 30
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25846c"
+  },
+  "Title": "Wires",
+  "Category": "Electronics",
+  "Date": "2022-02-20",
+  "Amount": 250
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25846d"
+  },
+  "Title": "Nacotin",
+  "Category": "Medical",
+  "Date": "2022-04-20",
+  "Amount": 20
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25846e"
+  },
+  "Title": "Earing",
+  "Category": "Fashion",
+  "Date": "2022-11-02",
+  "Amount": 660
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25846f"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-08-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258470"
+  },
+  "Title": "Vicks",
+  "Category": "Medical",
+  "Date": "2022-07-02",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258471"
+  },
+  "Title": "Diaper",
+  "Category": "Medical",
+  "Date": "2022-11-02",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258472"
+  },
+  "Title": "Napkin",
+  "Category": "Medical",
+  "Date": "2022-12-28",
+  "Amount": 90
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258473"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-02-09",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258474"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-12-10",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258475"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-09-10",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258476"
+  },
+  "Title": "Napkin",
+  "Category": "Medical",
+  "Date": "2022-12-28",
+  "Amount": 90
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258477"
+  },
+  "Title": "Diaper",
+  "Category": "Medical",
+  "Date": "2022-08-02",
+  "Amount": 500
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258478"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-11-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a258479"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-12-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25847a"
+  },
+  "Title": "Earing",
+  "Category": "Fashion",
+  "Date": "2022-09-02",
+  "Amount": 660
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25847b"
+  },
+  "Title": "Eyeliner",
+  "Category": "Beauty",
+  "Date": "2022-06-15",
+  "Amount": 125
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25847c"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-11-20",
+  "Amount": 220
+},{
+  "_id": {
+    "$oid": "6402be0ea238450b5a25847d"
+  },
+  "Title": "Bubble_mask",
+  "Category": "Beauty",
+  "Date": "2022-07-30",
+  "Amount": 74
+},{
+  "_id": {
+    "$oid": "6402be0fa238450b5a25847e"
+  },
+  "Title": "Lip_Paint",
+  "Category": "Beauty",
+  "Date": "2022-08-14",
+  "Amount": 4000
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e5939c"
+  },
+  "Title": "Banarasi_suit",
+  "Category": "Fashion",
+  "Date": "2022-10-02",
+  "Amount": 1500
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e5939d"
+  },
+  "Title": "Cap",
+  "Category": "Fashion",
+  "Date": "2022-06-19",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e5939e"
+  },
+  "Title": "Bracelet",
+  "Category": "Fashion",
+  "Date": "2022-08-20",
+  "Amount": 224
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e5939f"
+  },
+  "Title": "Bracelet",
+  "Category": "Fashion",
+  "Date": "2022-10-19",
+  "Amount": 224
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a0"
+  },
+  "Title": "Shoes",
+  "Category": "Fashion",
+  "Date": "2022-08-19",
+  "Amount": 449
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a1"
+  },
+  "Title": "Sun_cream",
+  "Category": "Medical",
+  "Date": "2022-11-26",
+  "Amount": 420
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a2"
+  },
+  "Title": "Sun_cream",
+  "Category": "Medical",
+  "Date": "2022-12-20",
+  "Amount": 420
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a3"
+  },
+  "Title": "Tablet",
+  "Category": "Medical",
+  "Date": "2022-09-16",
+  "Amount": 354
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a4"
+  },
+  "Title": "Head_phone",
+  "Category": "Electronics",
+  "Date": "2022-09-26",
+  "Amount": 599
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a5"
+  },
+  "Title": "Perfume",
+  "Category": "Beauty",
+  "Date": "2022-02-11",
+  "Amount": 1500
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a6"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-02-11",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a7"
+  },
+  "Title": "NoteBook",
+  "Category": "Stationary",
+  "Date": "2022-08-21",
+  "Amount": 69
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a8"
+  },
+  "Title": "Double_Tape",
+  "Category": "Stationary",
+  "Date": "2022-06-11",
+  "Amount": 144
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593a9"
+  },
+  "Title": "Pouch",
+  "Category": "Stationary",
+  "Date": "2022-05-30",
+  "Amount": 450
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593aa"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-02-22",
+  "Amount": 70
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593ab"
+  },
+  "Title": "NotePad",
+  "Category": "Stationary",
+  "Date": "2022-08-20",
+  "Amount": 299
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593ac"
+  },
+  "Title": "Sticky_notes",
+  "Category": "Stationary",
+  "Date": "2022-04-10",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6402c7f71779caf221e593ad"
+  },
+  "Title": "Rubber",
+  "Category": "Stationary",
+  "Date": "2022-01-10",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6402c7f81779caf221e593ae"
+  },
+  "Title": "Pen",
+  "Category": "Stationary",
+  "Date": "2022-10-19",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6402c7f81779caf221e593af"
+  },
+  "Title": "Gum",
+  "Category": "Stationary",
+  "Date": "2022-06-10",
+  "Amount": 25
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd366184784f"
+  },
+  "Title": "Book",
+  "Category": "Stationary",
+  "Date": "2022-07-12",
+  "Amount": 60
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847850"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-06-23",
+  "Amount": 10
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847851"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-07-21",
+  "Amount": 50
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847852"
+  },
+  "Title": "Paracetamol",
+  "Category": "Medical",
+  "Date": "2022-05-26",
+  "Amount": 60
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847853"
+  },
+  "Title": "Wires",
+  "Category": "Electronics",
+  "Date": "2022-03-27",
+  "Amount": 750
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847854"
+  },
+  "Title": "Nacotin",
+  "Category": "Medical",
+  "Date": "2020-02-28",
+  "Amount": 29
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847855"
+  },
+  "Title": "Earing",
+  "Category": "Fashion",
+  "Date": "2022-07-02",
+  "Amount": 660
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847856"
+  },
+  "Title": "Bangles",
+  "Category": "Fashion",
+  "Date": "2022-11-27",
+  "Amount": 250
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847857"
+  },
+  "Title": "Vicks",
+  "Category": "Medical",
+  "Date": "2022-11-06",
+  "Amount": 90
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847858"
+  },
+  "Title": "Diaper",
+  "Category": "Medical",
+  "Date": "2022-11-08",
+  "Amount": 1000
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847859"
+  },
+  "Title": "Napkin",
+  "Category": "Medical",
+  "Date": "2021-03-29",
+  "Amount": 50
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd366184785a"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-08-12",
+  "Amount": 6000
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd366184785b"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2022-09-21",
+  "Amount": 900
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd366184785c"
+  },
+  "Title": "Diaper",
+  "Category": "Medical",
+  "Date": "2023-03-02",
+  "Amount": 800
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd366184785d"
+  },
+  "Title": "Water",
+  "Category": "Rent",
+  "Date": "2023-03-01",
+  "Amount": 600
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd366184785e"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-09-26",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd366184785f"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-09-26",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847860"
+  },
+  "Title": "Colgate",
+  "Category": "Grocery",
+  "Date": "2022-09-26",
+  "Amount": 100
+},{
+  "_id": {
+    "$oid": "6402ede7e4e1cd3661847861"
+  },
+  "Title": "Biscuits",
+  "Category": "Grocery",
+  "Date": "2022-10-30",
+  "Amount": 57
+},{
+  "_id": {
+    "$oid": "6402ede9e4e1cd3661847862"
+  },
+  "Title": "Vim",
+  "Category": "Grocery",
+  "Date": "2022-05-04",
+  "Amount": 169
+},{
+  "_id": {
+    "$oid": "640360fef9e299dfd34f9f8f"
+  },
+  "Title": "Disel",
+  "Category": "Travel_Expense",
+  "Date": "2022-02-01"
 }]
