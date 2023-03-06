@@ -91,7 +91,7 @@
     "$oid": "63c5f327d04ce87e46a46702"
   },
   "Title": "Fever_Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-12-23",
   "Amount": 500
 },{
@@ -163,7 +163,7 @@
     "$oid": "63e380301b294cef129ba170"
   },
   "Title": "crocs",
-  "Category": "Fshion",
+  "Category": "Fashion",
   "Date": "2023-06-30",
   "Amount": 2097
 },{
@@ -507,7 +507,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a895"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-10-26",
   "Amount": 420
 },{
@@ -515,7 +515,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a896"
   },
   "Title": "Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-08-11",
   "Amount": 354
 },{
@@ -627,7 +627,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a8a4"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-04-20",
   "Amount": 20
 },{
@@ -635,7 +635,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a8a5"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-02-20",
   "Amount": 50
 },{
@@ -643,7 +643,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a8a6"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-03-28",
   "Amount": 30
 },{
@@ -659,7 +659,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a8a8"
   },
   "Title": "Nacotin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2020-04-20",
   "Amount": 20
 },{
@@ -683,7 +683,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a8ab"
   },
   "Title": "Vicks",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-01-02",
   "Amount": 10
 },{
@@ -691,7 +691,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a8ac"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-01-02",
   "Amount": 500
 },{
@@ -699,7 +699,7 @@
     "$oid": "63ff0520bfdc68bdd0c8a8ad"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-02-28",
   "Amount": 90
 },{
@@ -731,7 +731,7 @@
     "$oid": "63ff05dd3f8e0413b23822db"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-02-28",
   "Amount": 90
 },{
@@ -739,7 +739,7 @@
     "$oid": "63ff05ff3f8e0413b23822dc"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-02",
   "Amount": 500
 },{
@@ -843,7 +843,7 @@
     "$oid": "63ff07dd3f8e0413b23822e9"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-10-26",
   "Amount": 420
 },{
@@ -851,7 +851,7 @@
     "$oid": "63ff0a353f8e0413b23822ea"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-10-26",
   "Amount": 420
 },{
@@ -859,7 +859,7 @@
     "$oid": "63ff0a503f8e0413b23822eb"
   },
   "Title": "Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-08-11",
   "Amount": 354
 },{
@@ -971,7 +971,7 @@
     "$oid": "63ff0cc83f8e0413b23822f9"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-04-20",
   "Amount": 20
 },{
@@ -979,7 +979,7 @@
     "$oid": "63ff0cc83f8e0413b23822fa"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-02-20",
   "Amount": 50
 },{
@@ -987,7 +987,7 @@
     "$oid": "63ff0cc83f8e0413b23822fb"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-03-28",
   "Amount": 30
 },{
@@ -1003,7 +1003,7 @@
     "$oid": "63ff0cc83f8e0413b23822fd"
   },
   "Title": "Nacotin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2020-04-20",
   "Amount": 20
 },{
@@ -1027,7 +1027,7 @@
     "$oid": "63ff0cc83f8e0413b2382300"
   },
   "Title": "Vicks",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-02",
   "Amount": 10
 },{
@@ -1035,7 +1035,7 @@
     "$oid": "63ff0cc83f8e0413b2382301"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-02",
   "Amount": 500
 },{
@@ -1043,7 +1043,7 @@
     "$oid": "63ff0cc83f8e0413b2382302"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2021-02-28",
   "Amount": 90
 },{
@@ -1067,7 +1067,7 @@
     "$oid": "63ff1a043f8e0413b2382305"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-03-02",
   "Amount": 500
 },{
@@ -1427,7 +1427,7 @@
     "$oid": "6400b63d92b3efdd7599f98c"
   },
   "Title": "Fever_Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-12-23",
   "Amount": 500
 },{
@@ -1499,7 +1499,7 @@
     "$oid": "6400b87e92b3efdd7599f995"
   },
   "Title": "crocs",
-  "Category": "Fshion",
+  "Category": "Fashion",
   "Date": "2022-04-30",
   "Amount": 2097
 },{
@@ -1843,7 +1843,7 @@
     "$oid": "6400bb7092b3efdd7599f9c0"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-10-26",
   "Amount": 420
 },{
@@ -1851,7 +1851,7 @@
     "$oid": "6400bb7092b3efdd7599f9c1"
   },
   "Title": "Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-08-11",
   "Amount": 354
 },{
@@ -1963,7 +1963,7 @@
     "$oid": "6400bb7092b3efdd7599f9cf"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-04-20",
   "Amount": 20
 },{
@@ -1971,7 +1971,7 @@
     "$oid": "6400bb7292b3efdd7599f9d0"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-02-20",
   "Amount": 50
 },{
@@ -2291,7 +2291,7 @@
     "$oid": "64021aac85054b6641a758ba"
   },
   "Title": "Fever_Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-11-23",
   "Amount": 500
 },{
@@ -2363,7 +2363,7 @@
     "$oid": "64021bf385054b6641a758c3"
   },
   "Title": "crocs",
-  "Category": "Fshion",
+  "Category": "Fashion",
   "Date": "2022-09-29",
   "Amount": 2097
 },{
@@ -2707,7 +2707,7 @@
     "$oid": "64021d4a85054b6641a758ee"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-11-26",
   "Amount": 420
 },{
@@ -2715,7 +2715,7 @@
     "$oid": "64021d4a85054b6641a758ef"
   },
   "Title": "Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-07-11",
   "Amount": 354
 },{
@@ -2827,7 +2827,7 @@
     "$oid": "64021d4b85054b6641a758fd"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-08-20",
   "Amount": 20
 },{
@@ -2835,7 +2835,7 @@
     "$oid": "64021d4b85054b6641a758fe"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-20",
   "Amount": 50
 },{
@@ -2843,7 +2843,7 @@
     "$oid": "640222dd85054b6641a758ff"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-03-28",
   "Amount": 30
 },{
@@ -2883,7 +2883,7 @@
     "$oid": "640222dd85054b6641a75904"
   },
   "Title": "Vicks",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-02",
   "Amount": 10
 },{
@@ -2891,7 +2891,7 @@
     "$oid": "640222dd85054b6641a75905"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-02",
   "Amount": 500
 },{
@@ -2899,7 +2899,7 @@
     "$oid": "640222dd85054b6641a75906"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-02-28",
   "Amount": 90
 },{
@@ -2931,7 +2931,7 @@
     "$oid": "640222de85054b6641a7590a"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-02-28",
   "Amount": 90
 },{
@@ -2939,7 +2939,7 @@
     "$oid": "640222de85054b6641a7590b"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-02",
   "Amount": 500
 },{
@@ -3027,7 +3027,7 @@
     "$oid": "6402bda2a238450b5a25845a"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-11-26",
   "Amount": 420
 },{
@@ -3035,7 +3035,7 @@
     "$oid": "6402bda2a238450b5a25845b"
   },
   "Title": "Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-09-11",
   "Amount": 354
 },{
@@ -3147,7 +3147,7 @@
     "$oid": "6402bda2a238450b5a258469"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-02-20",
   "Amount": 20
 },{
@@ -3155,7 +3155,7 @@
     "$oid": "6402bda2a238450b5a25846a"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-01-20",
   "Amount": 50
 },{
@@ -3163,7 +3163,7 @@
     "$oid": "6402be0ea238450b5a25846b"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-06-28",
   "Amount": 30
 },{
@@ -3179,7 +3179,7 @@
     "$oid": "6402be0ea238450b5a25846d"
   },
   "Title": "Nacotin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-04-20",
   "Amount": 20
 },{
@@ -3203,7 +3203,7 @@
     "$oid": "6402be0ea238450b5a258470"
   },
   "Title": "Vicks",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-07-02",
   "Amount": 10
 },{
@@ -3211,7 +3211,7 @@
     "$oid": "6402be0ea238450b5a258471"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-11-02",
   "Amount": 500
 },{
@@ -3219,7 +3219,7 @@
     "$oid": "6402be0ea238450b5a258472"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-12-28",
   "Amount": 90
 },{
@@ -3251,7 +3251,7 @@
     "$oid": "6402be0ea238450b5a258476"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-12-28",
   "Amount": 90
 },{
@@ -3259,7 +3259,7 @@
     "$oid": "6402be0ea238450b5a258477"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-08-02",
   "Amount": 500
 },{
@@ -3363,7 +3363,7 @@
     "$oid": "6402c7f71779caf221e593a1"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-11-26",
   "Amount": 420
 },{
@@ -3371,7 +3371,7 @@
     "$oid": "6402c7f71779caf221e593a2"
   },
   "Title": "Sun_cream",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-12-20",
   "Amount": 420
 },{
@@ -3379,7 +3379,7 @@
     "$oid": "6402c7f71779caf221e593a3"
   },
   "Title": "Tablet",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-09-16",
   "Amount": 354
 },{
@@ -3491,7 +3491,7 @@
     "$oid": "6402ede7e4e1cd3661847850"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-06-23",
   "Amount": 10
 },{
@@ -3499,7 +3499,7 @@
     "$oid": "6402ede7e4e1cd3661847851"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-07-21",
   "Amount": 50
 },{
@@ -3507,7 +3507,7 @@
     "$oid": "6402ede7e4e1cd3661847852"
   },
   "Title": "Paracetamol",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-05-26",
   "Amount": 60
 },{
@@ -3523,7 +3523,7 @@
     "$oid": "6402ede7e4e1cd3661847854"
   },
   "Title": "Nacotin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2020-02-28",
   "Amount": 29
 },{
@@ -3547,7 +3547,7 @@
     "$oid": "6402ede7e4e1cd3661847857"
   },
   "Title": "Vicks",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-11-06",
   "Amount": 90
 },{
@@ -3555,7 +3555,7 @@
     "$oid": "6402ede7e4e1cd3661847858"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2022-11-08",
   "Amount": 1000
 },{
@@ -3563,7 +3563,7 @@
     "$oid": "6402ede7e4e1cd3661847859"
   },
   "Title": "Napkin",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2021-03-29",
   "Amount": 50
 },{
@@ -3587,7 +3587,7 @@
     "$oid": "6402ede7e4e1cd366184785c"
   },
   "Title": "Diaper",
-  "Category": "Medical",
+  "Category": "Madical",
   "Date": "2023-03-02",
   "Amount": 800
 },{
@@ -3638,11 +3638,4 @@
   "Category": "Grocery",
   "Date": "2022-05-04",
   "Amount": 169
-},{
-  "_id": {
-    "$oid": "640360fef9e299dfd34f9f8f"
-  },
-  "Title": "Disel",
-  "Category": "Travel_Expense",
-  "Date": "2022-02-01"
 }]
