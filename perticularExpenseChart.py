@@ -38,7 +38,7 @@ def perticularExpense(exp):
     
 def get_category():
      c=mycol.distinct("Category")
-    #  print(c)
+     print(c)
 
 
     
