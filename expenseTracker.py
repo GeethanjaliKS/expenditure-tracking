@@ -13,9 +13,8 @@ res3=cdate.currentDate()
 a=[res1,res2,res3]
 myvar = pd.Series(a, index = ["CurrentYear", "CurrentMonth", "CurrentDate"])
 print("==========Year,Month and Day Expense==========")
-print(myvar)
 print("==============================================")
-
+print(myvar)
 
 while True:
     print("==========Particular Expense Tracker==============")

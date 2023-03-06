@@ -19,12 +19,13 @@ def CurrentYear():
   # print(date)
   y=date[0:4]
 #  year = date.strftime("%Y")
-  dt=y+'-1-1'
+  dt=y+'-01-01'
   # print(dt)
   sum=0
   for i in d:
     if i['Date']>=dt:
-      sum=sum+(i['Amount'])
+      if(i['Amount']) >= 0:
+        sum=sum+(i['Amount'])
   return sum   
 
 # for date in Date():
