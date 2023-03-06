@@ -22,6 +22,7 @@ print("==============================================")
 print(myvar)
 
 while True:
+
     print("==========Particular Expense Tracker==============")
     print("1.Check category Expense")
     print("2.Check most Expense ")
