@@ -31,12 +31,14 @@ def currentMonth():
   y=date[0:7]
   # print(y)
 #  year = date.strftime("%Y")
-  dt=y+'-1'
+  dt=y+'-01'
+  de=y+'-31'
   # print(dt)
   sum=0 
   for i in d:
-   if i['Date']>=dt:
-    sum=sum+(i['Amount'])
+   if i['Date']>=dt and i['Date'] <=de:
+    if(i['Amount']) >= 0:
+      sum=sum+(i['Amount'])
   return sum   
 
 
