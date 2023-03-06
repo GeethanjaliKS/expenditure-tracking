@@ -9,6 +9,7 @@ import matplotlib.pyplot as plt
 # mycol = mydb["expense"]
 
 def perticularExpense(exp,mycol):
+ try:
     d=mycol.find({"Category":exp},{"Amount":1,"_id":0,"Date":1}).sort("Date")
     amt=[]
     data=[]
@@ -35,7 +36,10 @@ def perticularExpense(exp,mycol):
     plt.xticks(rotation = 25)
     plt.grid()
     plt.show()
-    
+ except:
+    print("Category not found... Please provide the correct category")
+
+
 def get_category(mycol):
      c=mycol.distinct("Category")
      print(c)
