@@ -3,12 +3,12 @@ import pandas as pd
 import pymongo
 import matplotlib.pyplot as plt
 
-myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-mydb = myclient["Expense_Trackerdb"]
+# myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+# mydb = myclient["Expense_Trackerdb"]
 
-mycol = mydb["expense"]
+# mycol = mydb["expense"]
 
-def perticularExpense(exp):
+def perticularExpense(exp,mycol):
     d=mycol.find({"Category":exp},{"Amount":1,"_id":0,"Date":1}).sort("Date")
     amt=[]
     data=[]
@@ -36,7 +36,7 @@ def perticularExpense(exp):
     plt.grid()
     plt.show()
     
-def get_category():
+def get_category(mycol):
      c=mycol.distinct("Category")
      print(c)
 

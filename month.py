@@ -1,11 +1,11 @@
 import pymongo
 import datetime
 
-def currentMonth():
-  myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-  mydb = myclient["Expense_Trackerdb"]
+def currentMonth(mycol):
+  # myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+  # mydb = myclient["Expense_Trackerdb"]
 
-  mycol = mydb["expense"]
+  # mycol = mydb["expense"]
   d=mycol.find()
 
 # today = datetime.now()

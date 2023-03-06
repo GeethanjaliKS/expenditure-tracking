@@ -1,10 +1,10 @@
 import datetime
 import pymongo
-def CurrentYear():
-  myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-  mydb = myclient["Expense_Trackerdb"]
+def CurrentYear(mycol):
+  # myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+  # mydb = myclient["Expense_Trackerdb"]
 
-  mycol = mydb["expense"]
+  # mycol = mydb["expense"]
 
 # myquery={{"Date":{"$gt":1-1-2023}}}
 # mydoc=mycol.find(myquery)

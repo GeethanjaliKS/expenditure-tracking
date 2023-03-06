@@ -5,11 +5,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-myclient = pymongo.MongoClient("mongodb://localhost:27017/")
-mydb = myclient["Expense_Trackerdb"]
+# myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+# mydb = myclient["Expense_Trackerdb"]
 
-mycol = mydb["expense"]
-def categoryExpense():
+# mycol = mydb["expense"]
+def categoryExpense(mycol):
 
   d=mycol.find({},{"Category":1,"Amount":1,"_id":0,"Date":1})
   key=[]

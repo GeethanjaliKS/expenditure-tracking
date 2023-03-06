@@ -5,11 +5,16 @@ import pandas as pd
 import expenseStatistics
 import chart 
 import perticularExpenseChart
+import pymongo
+myclient = pymongo.MongoClient("mongodb://localhost:27017/")
+mydb = myclient["Expense_Trackerdb"]
+
+mycol = mydb["expense"]
 
 
-res1=db.CurrentYear()
-res2=month.currentMonth()
-res3=cdate.currentDate()
+res1=db.CurrentYear(mycol)
+res2=month.currentMonth(mycol)
+res3=cdate.currentDate(mycol)
 a=[res1,res2,res3]
 myvar = pd.Series(a, index = ["Current Year Expense", "Current Month Expense", "Current Day Expense"])
 print("==========Year,Month and Day Expense==========")
@@ -28,23 +33,23 @@ while True:
     if(ch==1):
         print("===================================================")
         # cat=expenseStatistics.categoryExpense()
-        cat=chart.categoryExpense()
+        cat=chart.categoryExpense(mycol)
         # print(cat)
         print("===================================================")
     elif(ch==2):
         print("===================================================")
-        exp=expenseStatistics.highestExpense()
+        exp=expenseStatistics.highestExpense(mycol)
         print(exp)
         print("===================================================")
     elif(ch==3):
         print("===================================================")
-        mexp=expenseStatistics.minExpense()
+        mexp=expenseStatistics.minExpense(mycol)
         print(mexp)
         print("===================================================")
     elif(ch==4):
-        perticularExpenseChart.get_category()
+        perticularExpenseChart.get_category(mycol)
         exp=input("Enter the expense to search : ")
-        perticularExpenseChart.perticularExpense(exp) 
+        perticularExpenseChart.perticularExpense(exp,mycol) 
     elif(ch==5):
         exit   
     else:    

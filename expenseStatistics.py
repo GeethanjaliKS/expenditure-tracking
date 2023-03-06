@@ -27,7 +27,7 @@ mycol = mydb["expense"]
 
 
 
-def highestExpense():
+def highestExpense(mycol):
   d=mycol.find({},{"Category":1,"Amount":1,"_id":0})
   key=[]
   data=[]
@@ -48,9 +48,7 @@ def highestExpense():
   # # print(value)
   return value
 
-highestExpense()
-
-def minExpense():
+def minExpense(mycol):
   d=mycol.find({},{"Category":1,"Amount":1,"_id":0})
   key=[]
   data=[]
@@ -71,7 +69,6 @@ def minExpense():
   # # print(value)
   return value
 
-minExpense()
 
 
 
