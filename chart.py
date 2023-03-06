@@ -52,6 +52,7 @@ def categoryExpense(mycol):
   axis[0].set_ylabel("Expense",fontweight='bold')
   # plt.show()
   
+  
   # monthly chart
   d=mycol.find({},{"Category":1,"Amount":1,"_id":0,"Date":1})
   key=[]
