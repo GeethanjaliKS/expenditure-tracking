@@ -58,7 +58,7 @@ def perticularExpense(exp,mycol):
     predicted=predictNext.predictAmt(exp)
     for i in predicted:
        for j in i:
-          pred.append(j)
+          pred.append(int(j))
    #  print(pred)
     pred_amt= pred_amt+pred
    #  print(pred_date)
