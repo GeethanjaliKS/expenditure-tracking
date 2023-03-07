@@ -7,8 +7,8 @@ myclient = pymongo.MongoClient("mongodb://localhost:27017/")
 mydb = myclient["Expense_Trackerdb"]
 
 mycol = mydb["expense"]
-def rapidIncrease():
-    exp='Fashion'
+def predictAmt(exp):
+    
     d=mycol.find({"Category":exp},{"Amount":1,"_id":0,"Date":1}).sort("Date")
     amt=[]
     data=[]
@@ -36,7 +36,10 @@ def rapidIncrease():
     predicted_y= regsr.predict(to_predict_x)
     m= regsr.coef_
     c= regsr.intercept_
-    print("Predicted y:\n",predicted_y)
-    print("slope (m): ",m)
-    print("y-intercept (c): ",c)
-rapidIncrease()
+    # print("Predicted y:\n",predicted_y)
+    # print("slope (m): ",m)
+    # print("y-intercept (c): ",c)
+    return predicted_y
+# exp='Beauty'
+# predictAmt(exp)
+
