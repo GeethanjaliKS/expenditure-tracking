@@ -1,1 +1,5 @@
-Using Expense tracker one can easily track his expense. User will get know which expense is exceeding too much by viewing  the graph that is plotted. Expense Tracker is very much helpful for the people who wants to track their daily expenditure.Also it is very helpful to the people who seek to handle their spending and plan their expenses and savings efficiently. It helps the people to track their expenses on different category based on daily, weekly and monthly basis.
+
+
+ABSTRACT:
+
+Tracking regular expense is a key factor to maintain a budget. People often track expense using pen and paper method or take notes in a mobile phone or a computer. These processes of storing expense require further computations and processing for these data to be used as a trackable record. In this work, we are proposing an automated system named as expense tracker to calculate these data. By calculating expenses it produces the user's daily, monthly and yearly expenses and user can search for a perticular expense. Also using linear regression it predicts the expense of next 3 months, so that user will be aware of his expese and he can reduce certain unwanted expenses. Overall, this is a smart solution for tracking expense.
