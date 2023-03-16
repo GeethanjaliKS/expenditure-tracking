@@ -48,7 +48,7 @@ def perticularExpense(exp,mycol):
           pred_date.append(str(y)+'-'+str(mn).zfill(2))
    #  print(pred_date)
     # print(col_amt)
-    plt.plot(col_date, col_amt,"-o",color='maroon')
+    plt.plot(col_date, col_amt,"-o",color='maroon',label="Analysed amount")
     plt.xlabel("Date",fontweight='bold',color='black',fontsize='15')  # add X-axis label
     plt.ylabel("Amount",fontweight='bold',color='black',fontsize='15')  # add Y-axis label
     plt.title(exp,color='blue',fontweight='bold',fontsize='25')
@@ -63,11 +63,11 @@ def perticularExpense(exp,mycol):
     pred_amt= pred_amt+pred
    #  print(pred_date)
    #  print(pred_amt)
-    plt.plot(pred_date, pred_amt,"-o",color='green')
+    plt.plot(pred_date, pred_amt,"-o",color='green',label="Predicted amount")
 
     #plotting graph for predictions
 
-
+    plt.legend()
     plt.show()
 #  except:
 #     print("Category not found... Please provide the correct category")
